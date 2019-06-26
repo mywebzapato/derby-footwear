@@ -1,0 +1,22 @@
+
+.jumbotron  {font-family: 'Ropa Sans', sans-serif;
+			 color: black;}
+
+.navbar {background-color: #7d7d7d;}
+
+.logo { margin-right:  36%;}
+
+.catalog {background-color:}
+
+.display {background-color: #7d7d7d;
+		  font-family: 'Allerta Stencil', sans-serif;
+		  color: white;
+		  margin-bottom: 20px;
+		  padding-bottom: 5px;
+		  border-radius: 5px;}
+
+h3 {font-family: 'Monoton', cursive;}
+
+footer {background-color:#7d7d7d; }
+
+.iconicon {margin-left: 45px;}
