@@ -17,6 +17,7 @@
 
 h3 {font-family: 'Monoton', cursive;}
 
-footer {background-color:#7d7d7d; }
+footer {background-color:#7d7d7d;
+		margin-bottom: -20px;}
 
-.iconicon {margin-left: 45px;}
+.iconicon {margin-left: 20px;}
