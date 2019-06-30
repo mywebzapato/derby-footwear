@@ -1,6 +1,8 @@
 
-.jumbotron  {font-family: 'Ropa Sans', sans-serif;
-			 color: black;}
+.jumbotron  {font-family: 'Ropa Sans', sans-serif;}
+
+.jumbotron p {font-family: 'Ropa Sans', sans-serif; 
+			  color: black;}
 
 .navbar {background-color: #7d7d7d;}
 
@@ -20,4 +22,14 @@ h3 {font-family: 'Monoton', cursive;}
 footer {background-color:#7d7d7d;
 		margin-bottom: -20px;}
 
-.iconicon {margin-left: 20px;}
+.iconicon {margin-left: 20px;
+		   color: white;}
+
+.about  h1 {background-color: #7d7d7d;
+		  font-family: 'Allerta Stencil', sans-serif;
+		  color: white;
+		  margin-bottom: 20px;
+		  padding-bottom: 5px;
+		  border-radius: 5px;}
+
+.foter, p {color: white;}
